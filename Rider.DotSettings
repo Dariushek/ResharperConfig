@@ -214,8 +214,8 @@
 	<s:Boolean x:Key="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/RiderIntegrationViewOptions/ShowTopMethods/@EntryValue">False</s:Boolean>
 	
-	<s:Int64 x:Key="/Default/SystemModulesOptionsManager/Count/@EntryValue">1</s:Int64>
-	<s:String x:Key="/Default/SystemModulesOptionsManager/Modules/=0/@EntryIndexedValue">TestProject1%|%true%|%User-defined Group</s:String>
+	
+	
 	
 	
 	
